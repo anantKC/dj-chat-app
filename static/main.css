@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+body{
+    background-color:white;
+}
+
+#room-name-submit{
+    margin-top: 15px;
+}
+
+.lead{
+    font-family: 'Poppins', sans-serif;
+}
+#room-name-input{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#room-name-submit{
+    border: 2px solid gray;
+    border-radius:2px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+#room-name-submit:hover{
+    background-color:green;
+    color: white;
+
+}
+
+#chat-log,#chat-message-input{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+#chat-message-submit{
+    margin-top: 15px;
+    border: 2px solid gray;
+    border-radius: 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#chat-message-submit:hover{
+    background-color:green;
+    color: white;
+}
+
